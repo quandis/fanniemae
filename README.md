@@ -1,2 +1,3 @@
-# fanniemae
-Documentation and samples for Fannie Mae's QBO Platform
+# FannieMae Business Solutions Builder
+
+Please see the [Wiki for detailed instructions](https://github.com/quandis/fanniemae/wiki).
