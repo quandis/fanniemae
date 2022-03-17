@@ -1,0 +1,45 @@
+{
+	"info": {
+		"name": "Fannie",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": Landing Page",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Import Legacy Events",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "username",
+				"value": "{your user name here}",
+				"type": "string"
+			},
+			{
+				"key": "password",
+				"value": "{your password here}",
+				"type": "string"
+			}
+		]
+	},
+}
